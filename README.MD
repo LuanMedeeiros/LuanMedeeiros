@@ -32,5 +32,3 @@
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanMedeeiros&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=LuanMedeeiros&show_icons=true&theme=dracula&include_all_commits=true&count_private=false"/>
 </div>
-
-![Snake animation](https://github.com/LuanMedeeiros/LuanMedeeiros/blob/output/github-contribution-grid-snake.svg)
