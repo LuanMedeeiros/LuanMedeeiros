@@ -1,9 +1,7 @@
 # 👋 Hello! Welcome to my Github profile.
 ## My name is Luan Medeiros and have 20 years !
-<br/>
 
 ## About me:
-<br/>
 
 - 🔭 I am currently focused on studying and developing as much as I can in the area of programming.
 
@@ -12,19 +10,14 @@
 - 👯 I am looking to become a versatile and collaborative professional.
 
 ## Tools and Technologies
-<br/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  width="40" height="40"/>
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  width="40" height="40"/><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 
 ## I am learning
-<br/>
 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="40" height="40"/>
 
 ## Talk to me
-<br/>
 
 <div>
 <a href="https://instagram.com/luan_meedeiros" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -33,7 +26,6 @@
 </div>
 
 ## Statistic
-<br/>
 
 <div>
 <a href="https://github.com/LuanMedeeiros">
