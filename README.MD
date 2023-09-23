@@ -9,8 +9,6 @@
 
 - 👯 I am looking to become a versatile and collaborative professional.
 
-- 📫 How to contact me: luan.medeeiros25@gmail.com
-
 -->
 
 ## Ferramentas e Tecnologias
@@ -27,5 +25,13 @@
 <a href="https://instagram.com/luan_meedeiros" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:luan.medeeiros25@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/luan-medeiros-47a0a5231" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
+
+## Estatisticas:
+
+<div>
+<a href="https://github.com/LuanMedeeiros">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
