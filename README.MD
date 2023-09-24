@@ -1,6 +1,6 @@
 # 👋 Hello! Welcome to my Github profile.
 
-#   About me
+### About me
 
 - 🖥️  I’m currently studing ADS
 
