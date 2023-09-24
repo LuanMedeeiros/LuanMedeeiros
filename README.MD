@@ -1,4 +1,5 @@
 # 👋 Hello! Welcome to my Github profile.
+<br><br>
 
 <h1 align="left">Hi, I'm Luan </h1>
 
@@ -7,8 +8,6 @@
 - 🔭 I’m studying at Unimar | University from Marília
 
 - 🌱 I’m currently learning ReactJS
-
-<br><br>
 
 ## 🛠 &nbsp;Tech Stack
 
