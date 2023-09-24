@@ -2,7 +2,7 @@
 
 #### About me
 
-- 🖥️  I’m currently studing ADS
+- 🖥️  I’m currently studying ADS
 
 - 🔭 I’m studying at Unimar | University of Marília
 
