@@ -1,5 +1,4 @@
 # 👋 Hello! Welcome to my Github profile.
-<br><br>
 
 <h1 align="left">Hi, I'm Luan </h1>
 
