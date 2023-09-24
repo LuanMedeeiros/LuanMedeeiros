@@ -33,7 +33,7 @@
 
 ## &nbsp;Social Links
 
-<a href="https://twitter.com/LuanMedeeiros" target="_blank">
+<a href="https://twitter.com/Lupmalves" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-LuanMedeeiros-05122A?style=flat&logo=twitter" alt="twitter"/>  
 </a>
 <a href="https://linkedin.com/in/luan-medeiros-47a0a5231/" target="_blank">
