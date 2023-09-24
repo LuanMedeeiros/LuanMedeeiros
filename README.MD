@@ -1,34 +1,50 @@
 # 👋 Hello! Welcome to my Github profile.
-## My name is Luan Medeiros and have 20 years !
 
-## About me:
+# Luan Medeiros
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/LuanMedeeiros/b4463646f6539a63401d4ca511c234ce/raw/41c3d77d32e2f3881ad778dfca31256ef9c11931/gitcard.svg"/>
+<h1 align="left">Hey guys, I'm Luan 💖</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=LuanMedeeiros&color=yellow" alt="Profile views" /> </p>
 
-- 🔭 I am currently focused on studying and developing as much as I can in the area of programming.
 
-- 🌱 I'm currently learning Web Development at Rocketseat!
+- 🖥️  I’m currently studing ADS
 
-- 👯 I am looking to become a versatile and collaborative professional.
+- 🔭 I’m studying at Unimar | University from Marília
 
-## Tools and Technologies
+- 🌱 I’m currently learning ReactJS
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+<br><br>
 
-## I am learning
+## 🛠 &nbsp;Tech Stack
 
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="40" height="40"/>
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-## Talk to me
+<br><br>
 
-<div>
-<a href="https://instagram.com/luan_meedeiros" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:luan.medeeiros25@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/luan-medeiros-47a0a5231" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
+## ⚙️ &nbsp;GitHub Analytics
 
-## Statistic
+<p align="left">
+<img width="850em" src="https://github-readme-stats.vercel.app/api?username=LuanMedeeiros&show_icons=true&theme=jolly" alt="LuanMedeeiros's stats"/>
+<img width="850em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanMedeeiros&layout=compact&theme=jolly" alt="LuanMedeeiros's most languages"/>
+</p>
 
-<div>
-<a href="https://github.com/LuanMedeeiros">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanMedeeiros&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=LuanMedeeiros&show_icons=true&theme=dracula&include_all_commits=true&count_private=false"/>
-</div>
+<br><br>
+
+<!--![Snake animation](https://github.com/LuanMedeeiros/LuanMedeeiros/blob/output/github-contribution-grid-snake.svg)-->
+
+## &nbsp;Social Links
+
+<a href="https://twitter.com/LuanMedeeiros" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-LuanMedeeiros-05122A?style=flat&logo=twitter" alt="twitter"/>  
+</a>
+<a href="https://linkedin.com/in/luan-medeiros-47a0a5231/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-LuanMedeeiros-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+<a href="https://instagram.com/giih_gab" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-luan-medeiros-47a0a5231-05122A?style=flat&logo=instagram" alt="instagram"/>
+</a>
