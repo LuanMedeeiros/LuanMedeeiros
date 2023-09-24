@@ -4,7 +4,7 @@
 
 - 🖥️  I’m currently studing ADS
 
-- 🔭 I’m studying at Unimar | University from Marília
+- 🔭 I’m studying at Unimar | University of Marília
 
 - 🌱 I’m currently learning ReactJS
 
