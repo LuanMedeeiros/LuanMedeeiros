@@ -1,6 +1,5 @@
 # 👋 Hello! Welcome to my Github profile.
 
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/LuanMedeeiros/b4463646f6539a63401d4ca511c234ce/raw/41c3d77d32e2f3881ad778dfca31256ef9c11931/gitcard.svg"/>
 <h1 align="left">Hi, I'm Luan </h1>
 
 - 🖥️  I’m currently studing ADS
@@ -43,5 +42,5 @@
   <img align="center" src="https://img.shields.io/badge/-LuanMedeeiros-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="https://instagram.com/luan_meedeiros" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-luan-medeiros-47a0a5231-05122A?style=flat&logo=instagram" alt="instagram"/>
+ <img align="center" src="https://img.shields.io/badge/-LuanMedeeiros-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
