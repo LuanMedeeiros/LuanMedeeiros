@@ -1,6 +1,6 @@
 # 👋 Hello! Welcome to my Github profile.
 
-<h1 align="left">Hi, I'm Luan </h1>
+# About me
 
 - 🖥️  I’m currently studing ADS
 
