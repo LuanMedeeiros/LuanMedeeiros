@@ -25,7 +25,6 @@
 ## GitHub Analytics
 
 <p align="center">
-  <img width="450em" src="https://github-readme-stats.vercel.app/api?username=LuanMedeeiros&show_icons=true&theme=jolly" alt="LuanMedeeiros's stats"/>
   <img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanMedeeiros&layout=compact&theme=jolly" alt="LuanMedeeiros's most languages"/>
 </p>
 
