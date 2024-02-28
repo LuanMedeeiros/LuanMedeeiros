@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning Flask Framework
 
-## 🛠 &nbsp;Tech Stack
+# 🛠 &nbsp;Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript&logoColor=white&labelColor=F7DF1E" alt="JavaScript" height="30">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
