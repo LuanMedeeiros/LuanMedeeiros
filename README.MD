@@ -21,11 +21,7 @@
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask&logoColor=black)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git&logoColor=F05032)&nbsp;
 
-
-
-
-
-<br><br>
+<br>
 
 ## ⚙️ &nbsp;GitHub Analytics
 
@@ -34,7 +30,7 @@
 <img width="850em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanMedeeiros&layout=compact&theme=jolly" alt="LuanMedeeiros's most languages"/>
 </p>
 
-<br><br>
+<br>
 
 <!--![Snake animation](https://github.com/LuanMedeeiros/LuanMedeeiros/blob/output/github-contribution-grid-snake.svg)-->
 
