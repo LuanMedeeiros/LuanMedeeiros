@@ -32,8 +32,6 @@
 
 <br>
 
-![Snake animation](https://github.com/LuanMedeeiros/LuanMedeeiros/blob/output/github-contribution-grid-snake.svg)
-
 ## &nbsp;Social Links
 
 [![Twitter](https://img.shields.io/badge/-Twitter-05122A?style=for-the-badge&logo=twitter)](https://twitter.com/Lupmalves) &nbsp;
