@@ -11,18 +11,19 @@
 ## 🛠 &nbsp;Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" alt="JavaScript">
-  <img src="https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js" alt="Node.js">
-  <img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5" alt="HTML">
-  <img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6" alt="CSS">
-  <img src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react" alt="React">
+  <img src="https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript" alt="JavaScript">
+  <img src="https://img.shields.io/badge/-Node.js-05122A?style=for-the-badge&logo=node.js" alt="Node.js">
+  <img src="https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=HTML5" alt="HTML">
+  <img src="https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=CSS3&logoColor=1572B6" alt="CSS">
+  <img src="https://img.shields.io/badge/-React-05122A?style=for-the-badge&logo=react" alt="React">
   <br>
-  <img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github" alt="GitHub">
-  <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code">
-  <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&logoColor=yellow" alt="Python">
-  <img src="https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask&logoColor=black" alt="Flask">
-  <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git&logoColor=F05032" alt="Git">
+  <img src="https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github" alt="GitHub">
+  <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code">
+  <img src="https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=python&logoColor=yellow" alt="Python">
+  <img src="https://img.shields.io/badge/-Flask-05122A?style=for-the-badge&logo=flask&logoColor=black" alt="Flask">
+  <img src="https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git&logoColor=F05032" alt="Git">
 </p>
+
 
 
 <br>
