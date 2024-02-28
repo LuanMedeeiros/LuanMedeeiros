@@ -1,14 +1,12 @@
-# 👋 Hello! Welcome to my Github profile.
+# 👋 Hello! Welcome to my GitHub profile.
 
-### About me:
+## About me:
 
-- 🖥️  I’m currently studying ADS
+- 🖥️ I’m currently studying ADS.
+- 🔭 I’m studying at Unimar | University of Marília.
+- 🌱 I’m currently learning Flask Framework.
 
-- 🔭 I’m studying at Unimar | University of Marília
-
-- 🌱 I’m currently learning Flask Framework
-
-# 🛠 &nbsp;Tech Stack
+## 🛠 &nbsp;Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript&logoColor=white&labelColor=F7DF1E" alt="JavaScript" height="30">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -24,19 +22,16 @@
   <img src="https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git&logoColor=white&labelColor=F05032" alt="Git" height="30">
 </p>
 
-<br>
+## GitHub Analytics
 
-<p align="left">
-<img width="850em" src="https://github-readme-stats.vercel.app/api?username=LuanMedeeiros&show_icons=true&theme=jolly" alt="LuanMedeeiros's stats"/>
-<img width="850em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanMedeeiros&layout=compact&theme=jolly" alt="LuanMedeeiros's most languages"/>
+<p align="center">
+  <img width="400em" src="https://github-readme-stats.vercel.app/api?username=LuanMedeeiros&show_icons=true&theme=jolly" alt="LuanMedeeiros's stats"/>
+  <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanMedeeiros&layout=compact&theme=jolly" alt="LuanMedeeiros's most languages"/>
 </p>
-
-<br>
 
 ## &nbsp;Social Links
 
 <p align="center">
   <a href="https://twitter.com/Lupmalves" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>&nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/luan-medeiros-47a0a5231/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://instagram.com/luan_meedeiros" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-</p>
+  <a href="https://instagram.com/luan_meedeiros"
