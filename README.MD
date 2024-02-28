@@ -32,7 +32,7 @@
 
 <br>
 
-<!--![Snake animation](https://github.com/LuanMedeeiros/LuanMedeeiros/blob/output/github-contribution-grid-snake.svg)-->
+![Snake animation](https://github.com/LuanMedeeiros/LuanMedeeiros/blob/output/github-contribution-grid-snake.svg)
 
 ## &nbsp;Social Links
 
