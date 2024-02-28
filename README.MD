@@ -23,11 +23,12 @@
 
 <br>
 
-## 🐍 GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="400em" src="https://github-readme-stats.vercel.app/api?username=LuanMedeeiros&show_icons=true&theme=algolia&icon_color=8B0000&title_color=8B0000" alt="LuanMedeeiros's GitHub Stats"/>
-  <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanMedeeiros&layout=compact&theme=algolia&title_color=8B0000" alt="LuanMedeeiros's Most Used Languages"/>
+  <img width="450em" src="https://github-readme-stats.vercel.app/api?username=LuanMedeeiros&show_icons=true&theme=vue&bg_color=ffffff&hide_border=true" alt="LuanMedeeiros's GitHub Stats"/>
+  <br>
+  <img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanMedeeiros&layout=compact&theme=vue&bg_color=ffffff&hide_border=true" alt="LuanMedeeiros's Most Used Languages"/>
 </p>
 
 
