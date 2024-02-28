@@ -1,6 +1,6 @@
 # 👋 Hello! Welcome to my Github profile.
 
-#### About me
+### About me:
 
 - 🖥️  I’m currently studying ADS
 
@@ -25,8 +25,7 @@
 </p>
 
 <br>
-
-## 📊 &nbsp;GitHub Analytics
+# 📊 &nbsp;GitHub Analytics
 
 <p align="left">
 <img width="850em" src="https://github-readme-stats.vercel.app/api?username=LuanMedeeiros&show_icons=true&theme=jolly" alt="LuanMedeeiros's stats"/>
@@ -35,7 +34,7 @@
 
 <br>
 
-## &nbsp;Social Links
+# &nbsp;Social Links
 
 <p align="center">
   <a href="https://twitter.com/Lupmalves" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>&nbsp;&nbsp;&nbsp;
