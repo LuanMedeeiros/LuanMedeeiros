@@ -42,10 +42,10 @@
 
 <a href="https://twitter.com/Lupmalves" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-LuanMedeeiros-05122A?style=flat&logo=twitter" alt="twitter"/>  
-</a>
+&nbsp;
 <a href="https://linkedin.com/in/luan-medeiros-47a0a5231/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-LuanMedeeiros-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
+&nbsp;
 <a href="https://instagram.com/luan_meedeiros" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-LuanMedeeiros-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
+&nbsp;
