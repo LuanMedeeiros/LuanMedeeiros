@@ -6,7 +6,7 @@
 
 - 🔭 I’m studying at Unimar | University of Marília
 
-- 🌱 I’m currently learning ReactJS
+- 🌱 I’m currently learning Flask Framework
 
 ## 🛠 &nbsp;Tech Stack
 
