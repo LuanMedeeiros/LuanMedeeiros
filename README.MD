@@ -40,6 +40,6 @@
 
 ## &nbsp;Social Links
 
-[![Twitter](https://img.shields.io/badge/-LuanMedeeiros-05122A?style=for-the-badge&logo=twitter)](https://twitter.com/Lupmalves) &nbsp;
-[![LinkedIn](https://img.shields.io/badge/-LuanMedeeiros-05122A?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/luan-medeiros-47a0a5231/) &nbsp;
-[![Instagram](https://img.shields.io/badge/-LuanMedeeiros-05122A?style=for-the-badge&logo=instagram)](https://instagram.com/luan_meedeiros) &nbsp;
+[![Twitter](https://img.shields.io/badge/-Twitter-05122A?style=for-the-badge&logo=twitter)](https://twitter.com/Lupmalves) &nbsp;
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-05122A?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/luan-medeiros-47a0a5231/) &nbsp;
+[![Instagram](https://img.shields.io/badge/-Instagram-05122A?style=for-the-badge&logo=instagram)](https://instagram.com/luan_meedeiros) &nbsp;
