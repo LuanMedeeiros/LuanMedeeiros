@@ -11,17 +11,17 @@
 ## 🛠 &nbsp;Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript" alt="JavaScript">
-  <img src="https://img.shields.io/badge/-Node.js-05122A?style=for-the-badge&logo=node.js" alt="Node.js">
-  <img src="https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=HTML5" alt="HTML">
-  <img src="https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=CSS3&logoColor=1572B6" alt="CSS">
-  <img src="https://img.shields.io/badge/-React-05122A?style=for-the-badge&logo=react" alt="React">
+  <img src="https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript&logoColor=white&labelColor=F7DF1E" alt="JavaScript" height="40">
+  <img src="https://img.shields.io/badge/-Node.js-05122A?style=for-the-badge&logo=node.js&logoColor=white&labelColor=339933" alt="Node.js" height="40">
+  <img src="https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=HTML5&logoColor=white&labelColor=E34F26" alt="HTML" height="40">
+  <img src="https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=CSS3&logoColor=white&labelColor=1572B6" alt="CSS" height="40">
+  <img src="https://img.shields.io/badge/-React-05122A?style=for-the-badge&logo=react&logoColor=white&labelColor=61DAFB" alt="React" height="40">
   <br>
-  <img src="https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github" alt="GitHub">
-  <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code">
-  <img src="https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=python&logoColor=yellow" alt="Python">
-  <img src="https://img.shields.io/badge/-Flask-05122A?style=for-the-badge&logo=flask&logoColor=black" alt="Flask">
-  <img src="https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git&logoColor=F05032" alt="Git">
+  <img src="https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub" height="40">
+  <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=007ACC" alt="Visual Studio Code" height="40">
+  <img src="https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB" alt="Python" height="40">
+  <img src="https://img.shields.io/badge/-Flask-05122A?style=for-the-badge&logo=flask&logoColor=white&labelColor=000000" alt="Flask" height="40">
+  <img src="https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git&logoColor=white&labelColor=F05032" alt="Git" height="40">
 </p>
 
 
