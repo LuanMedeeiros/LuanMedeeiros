@@ -25,9 +25,10 @@
 
 ## 📊 GitHub Analytics
 
-<p align="center" style="background-color: #f8f8f8;">
-  <img width="400em" src="https://github-readme-stats.vercel.app/api?username=LuanMedeeiros&show_icons=true&theme=vue&bg_color=f8f8f8&hide_border=true" alt="LuanMedeeiros's GitHub Stats"/>
-  <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanMedeeiros&layout=compact&theme=vue&bg_color=f8f8f8&hide_border=true" alt="LuanMedeei
+align="center" style="background-color: #f8f8f8;">
+<img width="400em" src="https://github-readme-stats.vercel.app/api?username=LuanMedeeiros&show_icons=true&theme=vue&bg_color=f8f8f8&hide_border=true" alt="LuanMedeeiros's GitHub Stats"/>
+<img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanMedeeiros&layout=compact&theme=vue&bg_color=f8f8f8&hide_border=true" alt="LuanMedeei
+<p>
 
 <br>
 
