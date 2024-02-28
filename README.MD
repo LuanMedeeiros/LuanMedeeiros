@@ -23,9 +23,9 @@
   <img src="https://img.shields.io/badge/-Flask-05122A?style=for-the-badge&logo=flask&logoColor=white&labelColor=000000" alt="Flask" height="30">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git&logoColor=white&labelColor=F05032" alt="Git" height="30">
 </p>
-<br>
-## 📊 &nbsp;GitHub Analytics
-<br>
+
+<br><br>
+
 <p align="left">
 <img width="850em" src="https://github-readme-stats.vercel.app/api?username=LuanMedeeiros&show_icons=true&theme=jolly" alt="LuanMedeeiros's stats"/>
 <img width="850em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanMedeeiros&layout=compact&theme=jolly" alt="LuanMedeeiros's most languages"/>
