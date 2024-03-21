@@ -21,7 +21,6 @@
   <img src="https://img.shields.io/badge/-Flask-05122A?style=for-the-badge&logo=flask&logoColor=white&labelColor=000000" alt="Flask" height="30">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git&logoColor=white&labelColor=F05032" alt="Git" height="30">
   <br>
-  <img src="https://img.shields.io/badge/-C%23-05122A?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=239120" alt="C#" height="30">
 </p>
 
 
