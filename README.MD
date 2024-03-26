@@ -6,24 +6,6 @@
 - 🔭 I’m studying at Unimar | University of Marília
 - 🌱 I’m currently learning Flask Framework
 
-## 🛠 &nbsp;Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript&logoColor=white&labelColor=F7DF1E" alt="JavaScript" height="30">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-Node.js-05122A?style=for-the-badge&logo=node.js&logoColor=white&labelColor=339933" alt="Node.js" height="30">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=HTML5&logoColor=white&labelColor=E34F26" alt="HTML" height="30">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=CSS3&logoColor=white&labelColor=1572B6" alt="CSS" height="30">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-React-05122A?style=for-the-badge&logo=react&logoColor=white&labelColor=61DAFB" alt="React" height="30">
-  <br>
-  <img src="https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub" height="30">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=007ACC" alt="Visual Studio Code" height="30">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB" alt="Python" height="30">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-Flask-05122A?style=for-the-badge&logo=flask&logoColor=white&labelColor=000000" alt="Flask" height="30">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git&logoColor=white&labelColor=F05032" alt="Git" height="30">
-  <br>
-</p>
-
-
 ## GitHub Analytics
 
 <p align="center">
