@@ -8,7 +8,7 @@
 ## GitHub Analytics
 
 <p align="center">
-  <img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanMedeeiros&layout=compact&theme=jolly" alt="LuanMedeeiros's most languages"/>
+  <img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanMedeeiros&layout=compact&theme=radical" alt="LuanMedeeiros's most languages"/>
 </p>
 
 ## Social Links
