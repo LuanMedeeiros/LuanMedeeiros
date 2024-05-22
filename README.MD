@@ -9,12 +9,11 @@
 ## GitHub Analytics
 
 <p align="center">
-  <img width="450em" src="https://github-readme-stats.vercel.app/api?username=pedrox-hs&show_icons=true&count_private=true&rank_icon=percentile&theme=github_dark&line_height=24" alt="Pedro's GitHub stats"/>
+  <img width="450em" src="https://github-readme-stats.vercel.app/api?username=LuanMedeeiros&show_icons=true&count_private=true&rank_icon=percentile&theme=github_dark&line_height=24" alt="LuanMedeeiros's GitHub stats"/>
 </p>
 <p align="center">
-  <img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrox-hs&layout=compact&theme=github_dark" alt="Pedro's most used languages"/>
+  <img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanMedeeiros&layout=compact&theme=github_dark" alt="LuanMedeeiros's most used languages"/>
 </p>
-
 
 ## Social Links
 
