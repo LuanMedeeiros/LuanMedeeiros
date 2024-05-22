@@ -4,7 +4,7 @@
 
 - I’m currently studying ADS
 - I’m studying at Unimar | University of Marília
-- My gratest familiarity is with programing language C#
+- I’m more familiar with the C# programming language
 
 ## GitHub Analytics
 
