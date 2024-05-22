@@ -8,12 +8,17 @@
 
 ## GitHub Analytics
 
-<p align="center">
-  <img width="450em" src="https://github-readme-stats.vercel.app/api?username=LuanMedeeiros&show_icons=true&count_private=true&rank_icon=percentile&theme=github_dark&line_height=24" alt="LuanMedeeiros's GitHub stats"/>
-</p>
-<p align="center">
-  <img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanMedeeiros&layout=compact&theme=github_dark" alt="LuanMedeeiros's most used languages"/>
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <img width="450em" src="https://github-readme-stats.vercel.app/api?username=LuanMedeeiros&show_icons=true&count_private=true&rank_icon=percentile&theme=github_dark&line_height=24" alt="LuanMedeeiros's GitHub stats"/>
+    </td>
+    <td>
+      <img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanMedeeiros&layout=compact&theme=github_dark" alt="LuanMedeeiros's most used languages"/>
+    </td>
+  </tr>
+</table>
+
 
 ## Social Links
 
