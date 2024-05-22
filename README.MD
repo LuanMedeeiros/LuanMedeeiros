@@ -2,8 +2,9 @@
 
 ## About me:
 
-- 🖥️  I’m currently studying ADS
-- 🔭 I’m studying at Unimar | University of Marília
+- I’m currently studying ADS
+- I’m studying at Unimar | University of Marília
+- My gratest familiarity is with programing language C#
 
 ## GitHub Analytics
 
