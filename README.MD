@@ -9,7 +9,7 @@
 ## GitHub Analytics
 
 <table align="center">
-  <tr>
+ <tr>
     <td>
       <img width="450em" src="https://github-readme-stats.vercel.app/api?username=LuanMedeeiros&show_icons=true&count_private=true&rank_icon=percentile&theme=github_dark" alt="LuanMedeeiros's GitHub stats"/>
     </td>
